@@ -1,10 +1,12 @@
-# TP SNT FIBONACCI
+# TPs SNT Cera 2024-2025
 
-## Description des fichiers
+Si vous lisez ceci, vous avez cloné le référentiel avec succès et pouvez désormais accéder aux données contenues dans
+ce dernier, récupérer la dernière version du repo. sur votre machine locale et les modifier.
 
-- figure.py : Création de la figure en couleur avec fonctions pour dessiner cercles, trapèzes, carrés et se déplacer
-à un endroit sans laisser de trace sur l'écran
+Voici les commandes de terminal nécessaires à ces fonctionnalités
 
-- spirals.py : Création des spirales carrées et circulaires
+- Récupération: `git pull`
 
-- fibo.py : Création de la représentation du nombre d'Or
+- Envoi en ligne des modification: `git commit` puis `git push`
+
+Vous devrez peut-être vous réhautentifier lors de l'exécution de ces commandes
